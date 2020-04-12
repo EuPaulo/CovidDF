@@ -1,2 +1,3 @@
-/geraCsv.R
-/atualizarApp.sh
+geraCsv.R
+atualizarApp.sh
+output.txt
